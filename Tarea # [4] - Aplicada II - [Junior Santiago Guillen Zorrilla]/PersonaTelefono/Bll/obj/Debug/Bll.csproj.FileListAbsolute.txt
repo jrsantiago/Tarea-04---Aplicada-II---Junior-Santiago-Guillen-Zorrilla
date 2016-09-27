@@ -1,0 +1,7 @@
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\Bll\bin\Debug\Bll.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\Bll\bin\Debug\Bll.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\Bll\bin\Debug\DAL.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\Bll\bin\Debug\DAL.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\Bll\obj\Debug\Bll.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\Bll\obj\Debug\Bll.pdb

@@ -1,0 +1,10 @@
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\bin\PersonaTelefono.dll.config
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\bin\PersonaTelefono.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\bin\PersonaTelefono.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\bin\Bll.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\bin\DAL.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\bin\Bll.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\bin\DAL.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\obj\Debug\PersonaTelefono.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\obj\Debug\PersonaTelefono.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [4] - Aplicada II - [Junior Santiago Guillen Zorrilla]\PersonaTelefono\PersonaTelefono\obj\Debug\PersonaTelefono.pdb
